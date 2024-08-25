@@ -2,8 +2,6 @@
 
 #!/bin/bash
 
-# Name: Manito Francine Beredo
-# Student number: 10632689
 
 # I wrote a bash script that primarily downloads PDF files from a specified URL. Throughout the script,I used five functions. 
 # The first function is "is_valid_url," which takes the URL as an input and checks the URL's validity using the command "curl".
